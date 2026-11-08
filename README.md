@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24037018.svg)](https://doi.org/10.5281/zenodo.24037018)
+
 # kuangchao-meta-theory
 狂潮元理论｜A meta-theory for Transformer LLM, including core axioms, dynamical operators, mathematical mechanism appendix, errata.
 # 狂潮元理论 kuangchao-meta-theory
@@ -23,8 +25,8 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## 🆔 身份索引
 - Author：狂潮
-- ORCID：（0009-0003-5601-9448）
-- Zenodo：绑定后自动同步 Release
+- ORCID：[0009-0003-5601-9448](https://orcid.org/0009-0003-5601-9448)
+- Zenodo：[狂潮元理论 v2.4 预印本归档](https://doi.org/10.5281/zenodo.24037018)
 
 ## 🔗 配套仓库
 - `kuangchao-math-appendix`（后续新建，数学附录独立归档）
