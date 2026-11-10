@@ -1,5 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24037018.svg)](https://doi.org/10.5281/zenodo.24037018)
+> 狂潮元理论 v2.4（本体+数学机理附录）
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24102326.svg)](https://doi.org/10.5281/zenodo.24102326)
+> KC‑MCP v3.1 通用映像转换中间层架构文档集
 # kuangchao-meta-theory
 狂潮元理论｜A meta-theory for Transformer LLM, including core axioms, dynamical operators, mathematical mechanism appendix, errata.
 # 狂潮元理论 kuangchao-meta-theory
