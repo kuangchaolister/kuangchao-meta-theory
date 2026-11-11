@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24138324.svg)](https://doi.org/10.5281/zenodo.24138324)
 | KC‑TRSF V1.1 信息元架构（总纲）
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24137018.svg)](https://doi.org/10.5281/zenodo.24138327)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24138327.svg)](https://doi.org/10.5281/zenodo.24138327)
 | KC‑TRSF‑SS V2.3 意图搜索变体
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139094.svg)](https://doi.org/10.5281/zenodo.24139094)
