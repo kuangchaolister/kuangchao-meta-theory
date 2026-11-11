@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24138324.svg)](https://doi.org/10.5281/zenodo.24138324)
 | KC‑TRSF V1.1 信息元架构（总纲）
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24137018.svg)](https://doi.org/10.5281/zenodo.24037018)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24137018.svg)](https://doi.org/10.5281/zenodo.24138327)
 | KC‑TRSF‑SS V2.3 意图搜索变体
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139094.svg)](https://doi.org/10.5281/zenodo.24139094)
@@ -14,10 +14,10 @@
 | KC‑TRSF‑TP+SP V3.0 分层可控视觉生成 + 空间锚定子层
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24037018.svg)](https://doi.org/10.5281/zenodo.24037018)
-> 狂潮元理论 v2.4（本体+数学机理附录）
+| 狂潮元理论 v2.4（本体+数学机理附录）
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24102326.svg)](https://doi.org/10.5281/zenodo.24102326)
-> KC‑MCP v3.1 通用映像转换中间层架构文档集
+| KC‑MCP v3.1 通用映像转换中间层架构文档集
 # kuangchao-meta-theory
 狂潮元理论｜A meta-theory for Transformer LLM, including core axioms, dynamical operators, mathematical mechanism appendix, errata.
 # 狂潮元理论 kuangchao-meta-theory
