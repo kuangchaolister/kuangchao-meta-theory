@@ -1,3 +1,18 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24138324.svg)](https://doi.org/10.5281/zenodo.24138324)
+| KC‑TRSF V1.1 信息元架构（总纲）
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24137018.svg)](https://doi.org/10.5281/zenodo.24037018)
+| KC‑TRSF‑SS V2.3 意图搜索变体
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139094.svg)](https://doi.org/10.5281/zenodo.24139094)
+| KC‑TRSF‑TJ V2.0 动态推荐变体
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139378.svg)](https://doi.org/10.5281/zenodo.24139378)
+| KC‑TRSF‑JY V1.2 心智记忆变体（六层记忆骨架）
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139582.svg)](https://doi.org/10.5281/zenodo.24139582)
+| KC‑TRSF‑TP+SP V3.0 分层可控视觉生成 + 空间锚定子层
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24037018.svg)](https://doi.org/10.5281/zenodo.24037018)
 > 狂潮元理论 v2.4（本体+数学机理附录）
 
