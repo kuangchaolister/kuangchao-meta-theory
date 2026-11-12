@@ -1,23 +1,26 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24138324.svg)](https://doi.org/10.5281/zenodo.24138324)
-| KC‑TRSF V1.1 信息元架构（总纲）
+# 📚 狂潮元理论｜Zenodo 预印本归档集合
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24138327.svg)](https://doi.org/10.5281/zenodo.24138327)
-| KC‑TRSF‑SS V2.3 意图搜索变体
+> 全部为个人独立研究预印本，CC‑BY‑4.0；仅纸面架构推演，无工程源码，仅供学术研讨。
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139094.svg)](https://doi.org/10.5281/zenodo.24139094)
-| KC‑TRSF‑TJ V2.0 动态推荐变体
+| DOI徽章 | 文档标题 |
+|---|---|
+| **KC‑TRSF 元架构系列** | |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24037018.svg)](https://doi.org/10.5281/zenodo.24037018) | 狂潮元理论 v2.4（本体+数学机理附录） |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24138324.svg)](https://doi.org/10.5281/zenodo.24138324) | KC‑TRSF V1.1 信息元架构（总纲） |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139582.svg)](https://doi.org/10.5281/zenodo.24139582) | KC‑TRSF‑TP+SP V3.0 分层可控视觉生成 + 空间锚定子层 |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24102326.svg)](https://doi.org/10.5281/zenodo.24102326) | KC‑MCP v3.1 通用映像转换中间层架构文档集 |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24138327.svg)](https://doi.org/10.5281/zenodo.24138327) | KC‑TRSF‑SS V2.3 意图搜索变体 |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139094.svg)](https://doi.org/10.5281/zenodo.24139094) | KC‑TRSF‑TJ V2.0 动态推荐变体 |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139378.svg)](https://doi.org/10.5281/zenodo.24139378) | KC‑TRSF‑JY V1.2 心智记忆变体（六层记忆骨架） |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24131793.svg)](https://doi.org/10.5281/zenodo.24131793) | 狂潮分布式训练系统|六层原子化权责架构 (Version Public) |
+| **2026‑11‑12新归档独立预印本** | |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24153073.svg)](https://doi.org/10.5281/zenodo.24153073) | Kuang‑Chao MetaTheory: Information Distribution & Artificial Single Digital‑Mind Paradigm V1.0‑preprint（狂潮元理论：信息分发与人造单一数字心智范式 V1.0‑preprint） |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24150309.svg)](https://doi.org/10.5281/zenodo.24150309) | Android GUI‑Agent(豆包手机助手)架构设计 V2.4 |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24150616.svg)](https://doi.org/10.5281/zenodo.24150616) | 自研 KC‑AI‑Gateway｜完整设计方案文档【V4.0】 |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24151866.svg)](https://doi.org/10.5281/zenodo.24151866) | DSH‑Agent网关整体方案｜v1.1 定稿 |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24152475.svg)](https://doi.org/10.5281/zenodo.24152475) | M0‑Composite Six‑Layer Controllable Memory System V2.0‑public（M0‑复合六层可控存储系统 V2.0‑公开版） |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24152710.svg)](https://doi.org/10.5281/zenodo.24152710) | Cognitive‑Gap, Standing‑Allocation and the Exit of Algorithmic Intermediaries（认知差、名望分配与算法中介的退场 V1.0‑preprint） |
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139378.svg)](https://doi.org/10.5281/zenodo.24139378)
-| KC‑TRSF‑JY V1.2 心智记忆变体（六层记忆骨架）
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139582.svg)](https://doi.org/10.5281/zenodo.24139582)
-| KC‑TRSF‑TP+SP V3.0 分层可控视觉生成 + 空间锚定子层
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24037018.svg)](https://doi.org/10.5281/zenodo.24037018)
-| 狂潮元理论 v2.4（本体+数学机理附录）
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24102326.svg)](https://doi.org/10.5281/zenodo.24102326)
-| KC‑MCP v3.1 通用映像转换中间层架构文档集
 # kuangchao-meta-theory
 狂潮元理论｜A meta-theory for Transformer LLM, including core axioms, dynamical operators, mathematical mechanism appendix, errata.
 # 狂潮元理论 kuangchao-meta-theory
